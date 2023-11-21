@@ -27,6 +27,19 @@ Main packages i used:
 
 ### Videos
 
+https://github.com/Csengeri95/movieApp_Expo_React_Native/assets/109845880/a089bcb8-a4b6-49ad-b9fa-a1e5e45a3fc3
+
+https://github.com/Csengeri95/movieApp_Expo_React_Native/assets/109845880/ce55575e-2474-4d07-baa7-d5366686e4fd
+
+https://github.com/Csengeri95/movieApp_Expo_React_Native/assets/109845880/d56671b7-eed4-4283-bfe5-6dafc1420c40
+
+https://github.com/Csengeri95/movieApp_Expo_React_Native/assets/109845880/abea8244-96e1-4fa4-a308-01f05666400e
+
+https://github.com/Csengeri95/movieApp_Expo_React_Native/assets/109845880/b163bc9d-fecb-48b0-8c3e-3be9008bafab
+
+https://github.com/Csengeri95/movieApp_Expo_React_Native/assets/109845880/05a3402a-f28a-4ec4-ab6f-d6ca2e759e9c
+
+
 - [Click here to watch a part of the app on IOS](https://dl.dropboxusercontent.com/s/s0x9br8wj8mwvsu/movieApp1.mp4?dl=0)
 - [Click here to watch a part of the app on IOS](https://dl.dropboxusercontent.com/s/vzz5ef95v2kzjv0/movieApp2.mp4?dl=0)
 - [Click here to watch a part of the app on IOS](https://dl.dropboxusercontent.com/s/ynhjo168xz7jb9q/movieApp3.mp4?dl=0)
